@@ -1,0 +1,15 @@
+.apaga {
+    display: flex;
+    justify-content: center;
+}
+
+.cadastrar {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+}
+
+#cardContainer img {
+   height: 150px;
+}
